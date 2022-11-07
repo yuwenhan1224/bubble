@@ -1,10 +1,10 @@
 package main
 
 import (
+	"bubble/dao"
+	"bubble/models"
+	"bubble/routers"
 	"fmt"
-	"gin_test/lesson26_bubble/bubble/dao"
-	"gin_test/lesson26_bubble/bubble/models"
-	"gin_test/lesson26_bubble/bubble/routers"
 )
 
 func main() {
