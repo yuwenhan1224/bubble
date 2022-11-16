@@ -1,7 +1,7 @@
 package models
 
 import (
-	"gin_test/lesson26_bubble/bubble/dao"
+	"bubble/dao"
 )
 
 // Todo Model

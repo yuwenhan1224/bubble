@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"gin_test/lesson26_bubble/bubble/models"
+	"bubble/models"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
